@@ -1,4 +1,4 @@
 Surname: Soloveva
-Name": Irina
-Age": 31
-Pets": 0
+Name: Irina
+Age: 31
+Pets: 0
