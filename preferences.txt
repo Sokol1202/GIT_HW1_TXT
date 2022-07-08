@@ -1,4 +1,4 @@
 Movie: Seven Pounds
-TV_series: Trigger
+TV-series: Trigger
 Food: Pasta
 Season: Summer
