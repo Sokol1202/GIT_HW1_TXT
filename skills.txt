@@ -1,0 +1,8 @@
+
+Skill_1: JS
+Skill_2: GIT
+Skill_3: SQL
+Skill_4: Postman
+Skill_5: Charles
+Skill_6: Android Studio
+Skill_7: Theory
